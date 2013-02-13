@@ -1,4 +1,4 @@
 Tactical-Life
 =============
 
-Site refresh.
+Site refresh using modern standards and the Wordpress publishing platform.
